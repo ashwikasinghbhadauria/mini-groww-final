@@ -33,8 +33,8 @@ A modern, responsive stock trading and portfolio tracking web application inspir
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ashwikasinghbhadauria/mini-groww.git
-   cd mini-groww
+   git clone https://github.com/ashwikasinghbhadauria/mini-groww-final.git
+   cd mini-groww-final
    ```
 
 2. Install dependencies:
